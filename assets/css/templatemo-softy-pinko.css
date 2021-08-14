@@ -406,7 +406,7 @@ header
   width:160px;
   height:120px;
   margin-top: -24%;
-  
+  margin-bottom: -54px;
 }
 .header-area .main-nav .logo img {
   -webkit-transition: all 0.3s ease 0s;
@@ -833,12 +833,7 @@ features
 }
 
 @media (max-width: 991px) {
-  .home-feature {
-    padding-bottom: 0px;
-    padding-top: 0px;
-    margin-top: 0px;
-  }
-}
+  
 
 /* 
 ---------------------------------------------
